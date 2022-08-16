@@ -3,7 +3,7 @@
   <div class="header-container">
     <header>
       <div>
-        <img src="/talentql logo.svg" alt="" />
+        <img src="/talentql-logo.svg" alt="" />
       </div>
       <!---->
       <div>
